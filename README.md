@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luismar Pelayo</h1>
 <h3 align="center">A passionate Full Stack and Mobile Developer</h3>
 
-- 📫 How to reach me **luhpelayo@gmail.com**
+- 📫 How to reach me **contactluismar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
